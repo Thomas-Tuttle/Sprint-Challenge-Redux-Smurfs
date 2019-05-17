@@ -38,6 +38,7 @@ input, p {
 }
 
 input {
+  outline: none;
   background: white;
 }
 
@@ -72,6 +73,7 @@ p {
   margin-left: 120px;
   animation: Spin infinite 2s linear;
   cursor: pointer;
+  outline: none;
 }
 
 .addBtn {
@@ -81,6 +83,7 @@ p {
   color: red;
   font-weight: bolder;
   cursor: pointer;
+  outline: none;
 }
 
 p {
